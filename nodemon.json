@@ -1,0 +1,5 @@
+{
+  "ext": "ts",
+  "watch": ["src/**/*.ts"],
+  "exec": "yarn ts-node ./src/index.ts"
+}
